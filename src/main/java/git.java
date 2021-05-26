@@ -4,6 +4,6 @@ public class git {
         System.out.println("smallfish");
         String name ="smallfish";
         int age = 26;
-        String sex = "女";
+        String sex = "女1";
     }
 }
