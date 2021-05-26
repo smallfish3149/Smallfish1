@@ -3,5 +3,6 @@ public class git {
         System.out.println("smallfish");
         System.out.println("smallfish");
         String name ="smallfish";
+        int age = 26;
     }
 }
